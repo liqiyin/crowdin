@@ -1,6 +1,5 @@
 files:
   - source: crowdin/src/maiin/values/strings.xml
-    translation: crowdin/src/maiin/values%android_code%/strings.xml
-    translate_attributes: 0
+    translation: crowdin/src/maiin/values-%android_code%/strings.xml
   - source: test.xml
     translation: /values-%android_code%/test.xml
