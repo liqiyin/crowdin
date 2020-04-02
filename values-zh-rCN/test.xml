@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="wanna_buy">Buy</string>
+	<string name="wanna_buy">买买买</string>
 	<string name="wanna_sell">Sell</string>
 	<string name="by_cash_buy">By Fiat</string>
 	<string name="by_amount_buy">By Crypto</string>
