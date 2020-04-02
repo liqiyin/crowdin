@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<resources>
+	<string name="wanna_buy">Buy</string>
+	<string name="wanna_sell">Sell</string>
+	<string name="by_cash_buy">By Fiat</string>
+	<string name="by_amount_buy">By Crypto</string>
+	<string name="quote">Quantity</string>
+	<string name="select_payment_method">Select payment method</string>
+	<string name="bank_card">Bank</string>
+	<string name="wechat">WeChat</string>
+	<string name="alipay">Alipay</string>
+	<string name="unit_price_">Price</string>
+	<string name="amount">Quantity</string>
+	<string name="buy">Buy</string>
+	<string name="newcomer_help">User Guide</string>
+	<string name="have_not_pass_kyc">You have not completed identity verification, Please complete verification.</string>
+	<string name="go_to_kyc">Verify now</string>
+	<string name="delay_do_kyc">Skip verification now</string>
+	<string name="have_not_sign_protocol">You have not signed the agreement, please sign.</string>
+	<string name="go_to_sign">Sign now</string>
+	<string name="have_not_bind_mobile">You have not enabled SMS Authentication, please enable.</string>
+	<string name="go_to_bind">Enable SMS Authentication now</string>
+	<string name="go_to_unbind">Remove</string>
+</resources>
