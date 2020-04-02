@@ -2,3 +2,4 @@ files:
   - source: crowdin/src/maiin/values/strings.xml
     translation: crowdin/src/maiin/values%android_code%/strings.xml
     translate_attributes: 0
+    commit_message: 来自crowndin的pr
